@@ -97,7 +97,7 @@ nav a{
 }
 .blue{
     background: #5ED3EB;
-    margin: 0 24%;
+    margin: 0 25%;
 }
 .yellow{
     background: #FFCD69;
@@ -113,6 +113,7 @@ nav a{
 /*  Left */
 .left{
     width: 30%;
+    background: lime;
 }
 .left img{
     border-radius: 50%;
