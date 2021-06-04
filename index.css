@@ -174,7 +174,6 @@ section:last-of-type {
     position: relative;
     width: 100vw;
     min-width: 100vw;
-    background: chartreuse;
     text-align: center;
 }
 .hero-image {
@@ -189,7 +188,7 @@ section:last-of-type {
     bottom: 0;
     left: 0;
     right: 0;
-    margin-left: 75px;
+
 }
 .hero-image img {
     height: 30vh;
